@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T15:00:04.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ILviGcBMLArgKDtKow45" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T15:07:23.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="d2cQjoj0rrRBCIoJW6UW" version="23.0.2" type="github">
   <diagram name="Page-1" id="_MofC5ta0yTw0Z9mFdGP">
     <mxGraphModel dx="880" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="HUh1dlwKQfj8_lXao6Q8-55" value="Internet Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;fontStyle=1;fontSize=10;container=0;" parent="HUh1dlwKQfj8_lXao6Q8-71" vertex="1">
           <mxGeometry x="410" y="618" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HUh1dlwKQfj8_lXao6Q8-56" value="Router Table&lt;br&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router;container=0;" parent="HUh1dlwKQfj8_lXao6Q8-71" vertex="1">
+        <mxCell id="HUh1dlwKQfj8_lXao6Q8-56" value="Route Table" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router;container=0;" parent="HUh1dlwKQfj8_lXao6Q8-71" vertex="1">
           <mxGeometry x="410" y="390" width="60" height="46.8" as="geometry" />
         </mxCell>
         <mxCell id="HUh1dlwKQfj8_lXao6Q8-57" value="Network ACL" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.network_access_controllist;fillColor=#F58534;gradientColor=none;fontSize=10;fontStyle=1;container=0;" parent="HUh1dlwKQfj8_lXao6Q8-71" vertex="1">
